@@ -1,0 +1,44 @@
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\bin\Debug\PenDrive.exe.config
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\obj\Debug\PenDrive.csprojResolveAssemblyReference.cache
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\obj\Debug\MainWindow.g.cs
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\obj\Debug\App.g.cs
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\obj\Debug\PenDrive_MarkupCompile.cache
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\obj\Debug\PenDrive_MarkupCompile.lref
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\bin\Debug\PenDrive.exe
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\bin\Debug\PenDrive.pdb
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\obj\Debug\MainWindow.baml
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\obj\Debug\PenDrive.g.resources
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\obj\Debug\PenDrive.Properties.Resources.resources
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\obj\Debug\PenDrive.csproj.GenerateResource.Cache
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\obj\Debug\PenDrive.exe
+c:\users\acosta\documents\visual studio 2015\Projects\PenDrive\PenDrive\obj\Debug\PenDrive.pdb
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\bin\Debug\PenDrive.exe.config
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\bin\Debug\PenDrive.exe
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\bin\Debug\PenDrive.pdb
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\obj\Debug\PenDrive.csprojAssemblyReference.cache
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\obj\Debug\MainWindow.g.cs
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\obj\Debug\App.g.cs
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\obj\Debug\PenDrive_MarkupCompile.cache
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\obj\Debug\PenDrive_MarkupCompile.lref
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\obj\Debug\MainWindow.baml
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\obj\Debug\PenDrive.g.resources
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\obj\Debug\PenDrive.Properties.Resources.resources
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\obj\Debug\PenDrive.csproj.GenerateResource.cache
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\obj\Debug\PenDrive.csproj.CoreCompileInputs.cache
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\obj\Debug\PenDrive.exe
+C:\Users\ailso\OneDrive\Desenv\C#\PenDrive\PenDrive\obj\Debug\PenDrive.pdb
+C:\desenv\c#\PenDrive\PenDrive\bin\Debug\PenDrive.exe.config
+C:\desenv\c#\PenDrive\PenDrive\bin\Debug\PenDrive.exe
+C:\desenv\c#\PenDrive\PenDrive\bin\Debug\PenDrive.pdb
+C:\desenv\c#\PenDrive\PenDrive\obj\Debug\PenDrive.csprojAssemblyReference.cache
+C:\desenv\c#\PenDrive\PenDrive\obj\Debug\MainWindow.g.cs
+C:\desenv\c#\PenDrive\PenDrive\obj\Debug\App.g.cs
+C:\desenv\c#\PenDrive\PenDrive\obj\Debug\PenDrive_MarkupCompile.cache
+C:\desenv\c#\PenDrive\PenDrive\obj\Debug\PenDrive_MarkupCompile.lref
+C:\desenv\c#\PenDrive\PenDrive\obj\Debug\MainWindow.baml
+C:\desenv\c#\PenDrive\PenDrive\obj\Debug\PenDrive.g.resources
+C:\desenv\c#\PenDrive\PenDrive\obj\Debug\PenDrive.Properties.Resources.resources
+C:\desenv\c#\PenDrive\PenDrive\obj\Debug\PenDrive.csproj.GenerateResource.cache
+C:\desenv\c#\PenDrive\PenDrive\obj\Debug\PenDrive.csproj.CoreCompileInputs.cache
+C:\desenv\c#\PenDrive\PenDrive\obj\Debug\PenDrive.exe
+C:\desenv\c#\PenDrive\PenDrive\obj\Debug\PenDrive.pdb
